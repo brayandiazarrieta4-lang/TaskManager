@@ -270,32 +270,32 @@ En esta sección se deben agregar las capturas de las principales pantallas de l
 
 ### Inicio de sesión
 
-![login.png](fotos/login.png)
+![login.png](app/fotos/login.png)
 
 ### Registro
 
-![registro.png](fotos/registro.png)
+![registro.png](app/fotos/registro.png)
 
 ### Lista de tareas
 
-![tareas.png](fotos/tareas.png)
+![tareas.png](app/fotos/tareas.png)
 
 ### Crear o editar tarea
 
-![form.png](fotos/form.png)
+![form.png](app/fotos/form.png)
 
 ### Borradores
 
-![borrador.png](fotos/borrador.png)
+![borrador.png](app/fotos/borrador.png)
 
 
 ### Firebase Authenticacion
 
-![auth.png](fotos/auth.png)
+![auth.png](app/fotos/auth.png)
 
 ### Cloud Firestore
 
-![database.png](fotos/database.png)
+![database.png](app/fotos/database.png)
 
 ## Pruebas
 
